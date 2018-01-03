@@ -1,0 +1,143 @@
+Action(+3) - Athletics(+4) Combat(+3) Notice(+4) Physique(+3) Provoke(+4) Vehicles(+3)
+Banter(+2) - Contacts(+3) Deceive(+3) Empathy(+2) Rapport(+2) Will(+2)
+Intrigue(+1) - Burglary(+1) Stealth(+1)
+Stress: Physical(2), Mental(3), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Action(+3) - Athletics(+3) Combat(+3) Notice(+4) Physique(+3) Provoke(+4) Vehicles(+3)
+Banter(+2) - Contacts(+2) Deceive(+2) Empathy(+2) Rapport(+2) Will(+3)
+Science(+1) - Science(+1)
+Stress: Physical(2), Mental(3), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Action(+3) - Athletics(+4) Combat(+3) Notice(+4) Physique(+3) Provoke(+4) Vehicles(+3)
+Intrigue(+2) - Burglary(+2) Contacts(+3) Deceive(+3) Stealth(+2)
+Banter(+1) - Empathy(+1) Rapport(+1) Will(+1)
+Stress: Physical(3), Mental(2), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Action(+3) - Athletics(+4) Combat(+3) Notice(+5) Physique(+3) Provoke(+3) Vehicles(+3)
+Intrigue(+2) - Burglary(+2) Contacts(+2) Deceive(+2) Stealth(+2)
+Science(+1) - Will(+1) Science(+1)
+Stress: Physical(3), Mental(2), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Action(+3) - Athletics(+3) Combat(+3) Notice(+4) Physique(+3) Provoke(+4) Vehicles(+3)
+Science(+2) - Will(+3) Science(+2)
+Banter(+1) - Contacts(+1) Deceive(+1) Empathy(+1) Rapport(+1)
+Stress: Physical(2), Mental(3), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Action(+3) - Athletics(+4) Combat(+3) Notice(+5) Physique(+3) Provoke(+3) Vehicles(+3)
+Science(+2) - Will(+2) Science(+2)
+Intrigue(+1) - Burglary(+1) Contacts(+1) Deceive(+1) Stealth(+1)
+Stress: Physical(2), Mental(3), Either(2)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Banter(+3) - Contacts(+4) Deceive(+4) Empathy(+3) Provoke(+4) Rapport(+3) Will(+3)
+Action(+2) - Athletics(+3) Combat(+2) Notice(+3) Physique(+2) Vehicles(+2)
+Intrigue(+1) - Burglary(+1) Stealth(+1)
+Stress: Physical(2), Mental(4), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Banter(+3) - Contacts(+3) Deceive(+3) Empathy(+3) Provoke(+4) Rapport(+3) Will(+4)
+Action(+2) - Athletics(+2) Combat(+2) Notice(+3) Physique(+2) Vehicles(+2)
+Science(+1) - Science(+1)
+Stress: Physical(2), Mental(4), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Banter(+3) - Contacts(+4) Deceive(+4) Empathy(+3) Provoke(+4) Rapport(+3) Will(+3)
+Intrigue(+2) - Athletics(+3) Burglary(+2) Notice(+3) Stealth(+2)
+Action(+1) - Combat(+1) Physique(+1) Vehicles(+1)
+Stress: Physical(3), Mental(4)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Banter(+3) - Contacts(+4) Deceive(+4) Empathy(+3) Provoke(+3) Rapport(+3) Will(+4)
+Intrigue(+2) - Athletics(+2) Burglary(+2) Notice(+3) Stealth(+2)
+Science(+1) - Science(+1)
+Stress: Physical(3), Mental(4)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Banter(+3) - Contacts(+3) Deceive(+3) Empathy(+3) Provoke(+4) Rapport(+3) Will(+4)
+Science(+2) - Notice(+3) Science(+2)
+Action(+1) - Athletics(+1) Combat(+1) Physique(+1) Vehicles(+1)
+Stress: Physical(2), Mental(5)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Banter(+3) - Contacts(+4) Deceive(+4) Empathy(+3) Provoke(+3) Rapport(+3) Will(+4)
+Science(+2) - Notice(+3) Science(+2)
+Intrigue(+1) - Athletics(+1) Burglary(+1) Stealth(+1)
+Stress: Physical(2), Mental(5)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Intrigue(+3) - Athletics(+4) Burglary(+3) Contacts(+4) Deceive(+4) Notice(+4) Stealth(+3)
+Action(+2) - Combat(+2) Physique(+2) Provoke(+3) Vehicles(+2)
+Banter(+1) - Empathy(+1) Rapport(+1) Will(+1)
+Stress: Physical(4), Mental(2), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Intrigue(+3) - Athletics(+4) Burglary(+3) Contacts(+3) Deceive(+3) Notice(+5) Stealth(+3)
+Action(+2) - Combat(+2) Physique(+2) Provoke(+2) Vehicles(+2)
+Science(+1) - Will(+1) Science(+1)
+Stress: Physical(4), Mental(2), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Intrigue(+3) - Athletics(+4) Burglary(+3) Contacts(+4) Deceive(+4) Notice(+4) Stealth(+3)
+Banter(+2) - Empathy(+2) Provoke(+3) Rapport(+2) Will(+2)
+Action(+1) - Combat(+1) Physique(+1) Vehicles(+1)
+Stress: Physical(4), Mental(3)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills.
+
+Intrigue(+3) - Athletics(+3) Burglary(+3) Contacts(+4) Deceive(+4) Notice(+4) Stealth(+3)
+Banter(+2) - Empathy(+2) Provoke(+2) Rapport(+2) Will(+3)
+Science(+1) - Science(+1)
+Stress: Physical(4), Mental(3)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Intrigue(+3) - Athletics(+4) Burglary(+3) Contacts(+3) Deceive(+3) Notice(+5) Stealth(+3)
+Science(+2) - Will(+2) Science(+2)
+Action(+1) - Combat(+1) Physique(+1) Provoke(+1) Vehicles(+1)
+Stress: Physical(4), Mental(3)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Intrigue(+3) - Athletics(+3) Burglary(+3) Contacts(+4) Deceive(+4) Notice(+4) Stealth(+3)
+Science(+2) - Will(+3) Science(+2)
+Banter(+1) - Empathy(+1) Provoke(+1) Rapport(+1)
+Stress: Physical(4), Mental(3)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+4) Will(+4) Science(+3)
+Action(+2) - Athletics(+2) Combat(+2) Physique(+2) Provoke(+3) Vehicles(+2)
+Banter(+1) - Contacts(+1) Deceive(+1) Empathy(+1) Rapport(+1)
+Stress: Physical(2), Mental(4), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+5) Will(+3) Science(+3)
+Action(+2) - Athletics(+3) Combat(+2) Physique(+2) Provoke(+2) Vehicles(+2)
+Intrigue(+1) - Burglary(+1) Contacts(+1) Deceive(+1) Stealth(+1)
+Stress: Physical(2), Mental(4), Either(1)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+4) Will(+4) Science(+3)
+Banter(+2) - Contacts(+2) Deceive(+2) Empathy(+2) Provoke(+3) Rapport(+2)
+Action(+1) - Athletics(+1) Combat(+1) Physique(+1) Vehicles(+1)
+Stress: Physical(2), Mental(5)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+4) Will(+4) Science(+3)
+Banter(+2) - Contacts(+3) Deceive(+3) Empathy(+2) Provoke(+2) Rapport(+2)
+Intrigue(+1) - Athletics(+1) Burglary(+1) Stealth(+1)
+Stress: Physical(2), Mental(5)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+5) Will(+3) Science(+3)
+Intrigue(+2) - Athletics(+3) Burglary(+2) Contacts(+2) Deceive(+2) Stealth(+2)
+Action(+1) - Combat(+1) Physique(+1) Provoke(+1) Vehicles(+1)
+Stress: Physical(3), Mental(4)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
+
+Science(+3) - Notice(+4) Will(+4) Science(+3)
+Intrigue(+2) - Athletics(+2) Burglary(+2) Contacts(+3) Deceive(+3) Stealth(+2)
+Banter(+1) - Empathy(+1) Provoke(+1) Rapport(+1)
+Stress: Physical(3), Mental(4)
+Improvements: Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills., Specialize one trained skill, Focus one trained skill, Specialize one focussed skill
