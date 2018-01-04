@@ -1,5 +1,8 @@
-// ARGen.cpp : Defines the entry point for the console application.
-//
+/*
+Copyright Chris Gordon 2017
+
+Shared under the GPLv3 license - https://www.gnu.org/licenses/gpl-3.0.en.html
+*/
 
 #include "stdafx.h"
 
