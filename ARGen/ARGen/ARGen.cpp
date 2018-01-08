@@ -46,12 +46,12 @@ static const std::map<std::string, const std::vector<std::string>> Modes_Skills 
 	{ Mode_Science, Mode_Skills_Science }
 };
 
-static const std::vector<std::string> Improvements_Science{ "Specialize one trained skill", "Focus one trained skill", "Specialize one focussed skill" };
-
-static const std::map<std::string, const std::vector<std::string>> Mode_Improvements{
-	{Mode_Science, Improvements_Science }
+// The basic allowance for EZ No Math creation is that each mode costs 9 points.  Science costs 3, so there are 6 more points available.  
+// When adding new Modes, ensure you don't sum up to 10 points because you will have one extra.  In the case that you have 10 points of value in a Weird mode, use -1 as the value.
+// improvement costs are on p. 34
+static const std::map<std::string, int> Mode_Improvements{
+	{Mode_Science, 6 } //"Specialize one trained skill", "Focus one trained skill", "Specialize one focussed skill"
 };
-
 
 void print_mode(std::vector<std::string> v_modes) {
 	int physical_stress = 2;
@@ -108,7 +108,7 @@ void print_mode(std::vector<std::string> v_modes) {
 
 	}
 
-	std::vector<std::string> improvements = { "Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills." };
+	int improvements = 3; //{ "Specialize one trained skill OR Focus one trained skill and specialize one focused skill OR Focus three trained skills." };
 	//std::vector<std::string> improvements = { "Everyone (p.34)" };
 
 	// Pull out skills by Mode and report
@@ -116,7 +116,7 @@ void print_mode(std::vector<std::string> v_modes) {
 	{
 		if (Mode_Improvements.find(v_modes[i]) != Mode_Improvements.end()) {
 			auto new_improvements = Mode_Improvements.at(v_modes[i]);
-			improvements.insert(improvements.end(), new_improvements.begin(), new_improvements.end());
+			improvements += new_improvements;
 		}
 
 		std::cout << v_modes[i] << "(+" << 3 - i << +") - ";
@@ -137,12 +137,9 @@ void print_mode(std::vector<std::string> v_modes) {
 	std::cout << std::endl;
 
 	// report on Improvements
-	std::cout << "Improvements: ";
-	for (auto improvement : improvements) {
-		std::cout << improvement << ", ";
-	}
+	std::cout << "Improvements: " << improvements << " points" << std::endl;
 
-	std::cout << std::endl << std::endl;
+	std::cout << std::endl;
 }
 
 int main()
